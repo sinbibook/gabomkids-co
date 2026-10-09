@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-08-31T03:00:45.930688941Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-09T07:18:29.341497022Z",
     "templateType": "trip_d",
     "propertyId": "966c000f-1839-461b-b649-88926657547f",
     "homepageId": "daf22c81-de88-402b-975e-9fa6d465cfda"
@@ -22,13 +22,16 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의\n※ 퇴실 시간 초과시 1시간당 20,000 추가 요금",
-    "usageGuide": "※ 전 객실 금연\n※ 객실 내 육류생선 구이요리, 청국장, 해산물 조리 금지\n※ 펜션 내 양초,폭죽 등 화재 위험 물품 반입 불가\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의\n※ 퇴실 시간 초과시 1시간당 20,000 추가 요금\n\n[인원추가요금]\n※ 유아 (12개월 미만): 1인 무료 2인 이상 10,000원\n※영유아 추가비용 발생 및 인원수에 포함\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 가스그릴(실내) / 숯+그릴 (야외)\n- 이용 요금: 인원 무관 20,000원 / 부탄가스 추가 3,000원 / 숯+그릴 인원 무관 30,000원 (1박기준/현장결제)\n- 이용 시간: 제한없음\n- 동계 시 이용 가능\n- 우천 시 이용 가능\n※ 가스그릴은 신청시간 제한 없으나 숯+그릴은 20시 이전에 신청 필요\n※ 신청시간: 종류에 따라 상이함\n\n[개별수영장]\n- 이용 객실: 전객실\n- 운영 계절: 사계절\n- 이용 요금: 가봄2동 60,000원 (1박기준/현장결제)/가봄1동,3동 50,000원 (1박기준/현장결제)\n- 이용 시간: 입실 후 ~ 21:00\n- 이용 복장: 수영모, 수영복, 래쉬가드 착용\n- 수영장 크기: 가봄2동 2.7m x 4m x 0.8m / 가봄1동3동 2.8m x 2.4m x 0.7m\n※ 수영도구 외 음식 및 장난감 반입 금지\n※ 온도: 하절기(4~9월) 27℃~30℃, 동절기(10~3월) 31℃~35℃\n\n[불멍]\n- 이용 객실: 전객실\n- 이용 요금: 장작 가격 포함 20,000원 (1박기준/현장결제)\n- 신청 시간: 입실 후 ~ 15:00\n- 이용 시간: ~21:00\n\n[부대시설]\n[키즈놀이터]\n- 이용객실 : 전 객실/테라스\n- 이용시간 : 제한없음\n\n[모래놀이시설]\n- 이용객실 : 전 객실\n- 이용요금 : 무료\n- 이용시간 : 무제한\n- 이용장소 : 전 객실 문 옆에 위치해 있습니다.\n\n[객실 내 노래방]\n- 이용객실 : 전객실\n- 이용요금 : 이용료 2만원 / 추가마이크 2개 무료 (1박기준/현장결제)\n- 이용시간 : 오후 10시까지\n\n[편의 및 주변 시설]\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 상비약: 관리실 비치, 무료, 이용시간 제한없음\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n- 주차 대수: 객실당 2대 이용 가능, 추가 주차 가능\n\n[교통편]\n[찾아오시는 길]\n※차량\n 도로명 : 경기도 가평군 가평읍 호반로 2130-14\n 지번 : 경기도 가평군 가평읍 이화리 107-31\n※대중교통\n 가평역 도착 > (12)버스 > 이화리 하차",
+    "usageGuide": "[공지사항]\n※ 전 객실 금연\n※ 객실 내 육류생선 구이요리, 청국장, 해산물 조리 금지\n※ 펜션 내 양초,폭죽 등 화재 위험 물품 반입 불가\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의\n※ 퇴실 시간 초과시 1시간당 20,000 추가 요금\n\n[인원추가정보]\n[연령기준]\n- 성인: 19세 이상\n- 아동: 12개월 이상~19세 미만\n- 유아: 12개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 유아 (12개월 미만): 1인 무료 2인 이상 10,000원\n※영유아 추가비용 발생 및 인원수에 포함\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 가스그릴(실내) / 숯+그릴 (야외)\n- 이용 요금: 인원 무관 20,000원 / 부탄가스 추가 3,000원 / 숯+그릴 인원 무관 30,000원 (1박기준/현장결제)\n- 이용 시간: 제한없음\n- 동계 시 이용 가능\n- 우천 시 이용 가능\n※ 가스그릴은 신청시간 제한 없으나 숯+그릴은 20시 이전에 신청 필요\n※ 신청시간: 종류에 따라 상이함\n\n[개별수영장]\n- 이용 객실: 전객실\n- 운영 계절: 사계절\n- 이용 요금: 가봄2동 60,000원 (1박기준/현장결제)/가봄1동,3동 50,000원 (1박기준/현장결제)\n- 이용 시간: 입실 후 ~ 21:00\n- 이용 복장: 수영모, 수영복, 래쉬가드 착용\n- 수영장 크기: 가봄2동 2.7m x 4m x 0.8m / 가봄1동3동 2.8m x 2.4m x 0.7m\n※ 수영도구 외 음식 및 장난감 반입 금지\n※ 온도: 하절기(4~9월) 27℃~30℃, 동절기(10~3월) 31℃~35℃\n\n[불멍]\n- 이용 객실: 전객실\n- 이용 요금: 장작 가격 포함 20,000원 (1박기준/현장결제)\n- 신청 시간: 입실 후 ~ 15:00\n- 이용 시간: ~21:00\n\n[부대시설]\n[키즈놀이터]\n- 이용객실 : 전 객실/테라스\n- 이용시간 : 제한없음\n\n[모래놀이시설]\n- 이용객실 : 전 객실\n- 이용요금 : 무료\n- 이용시간 : 무제한\n- 이용장소 : 전 객실 문 옆에 위치해 있습니다.\n\n[객실 내 노래방]\n- 이용객실 : 전객실\n- 이용요금 : 이용료 2만원 / 추가마이크 2개 무료 (1박기준/현장결제)\n- 이용시간 : 오후 10시까지\n\n[편의 및 주변 시설]\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 상비약: 관리실 비치, 무료, 이용시간 제한없음\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n- 주차 대수: 객실당 2대 이용 가능, 추가 주차 가능\n\n[교통편]\n[찾아오시는 길]\n※차량\n 도로명 : 경기도 가평군 가평읍 호반로 2130-14\n 지번 : 경기도 가평군 가평읍 이화리 107-31\n※대중교통\n 가평역 도착 > (12)버스 > 이화리 하차",
     "reservationGuide": "※ 전 객실 금연\n※ 객실 내 육류생선 구이요리, 청국장, 해산물 조리 금지\n※ 펜션 내 양초,폭죽 등 화재 위험 물품 반입 불가",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "gabomkids.co.kr",
     "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1259503",
     "ybsId": "74412",
+    "tripPropertyId": "6565",
+    "partnerType": "distributor_a",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "흡연구역(지정장소)",
       "주차장"
@@ -325,7 +328,7 @@
           {
             "id": "9e096890-6310-4585-bb40-d0644ea175fc",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/23/JxseYM8U2l5t.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -335,7 +338,7 @@
           {
             "id": "16668e10-868a-4b3c-9d50-45046e76cec7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/22/5pOkb7laoPFt.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -343,7 +346,7 @@
           {
             "id": "05d67fed-effa-4dc5-bbc0-46c036026581",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/23/iIfF4T1ezVDM.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -351,7 +354,7 @@
           {
             "id": "126122ee-b189-44f6-8d31-cae77ab434b8",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/23/6D7E945hAHz2.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -359,7 +362,7 @@
           {
             "id": "1c834554-15b8-4f21-98be-8b394c1ad65e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/23/25kbjmSAtp9q.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -367,7 +370,7 @@
           {
             "id": "faeee9e8-a5cd-4bf7-be9b-ef45cc720c96",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/23/TEOjpZMnciS2.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -375,7 +378,7 @@
           {
             "id": "584a0d3b-cf3b-4b37-b290-b89eeec762b4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/23/WMUn2GeHpIth.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -383,7 +386,7 @@
           {
             "id": "4cac08d1-b8e7-479f-932b-14e203c161e0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/23/XwWf0CndUBaT.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -391,7 +394,7 @@
           {
             "id": "8239b8a3-b074-41ae-a78b-15d2cb2ebf28",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/23/0bOrtzRINXhD.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -399,7 +402,7 @@
           {
             "id": "bc8d2ae5-9ada-47b5-aacc-d1a966cdd108",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/23/4eHr5LCdqGgR.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1721,6 +1724,35 @@
                 "description": ""
               },
               "enabled": true
+            }
+          ]
+        },
+        "landing": {
+          "sections": [
+            {
+              "enabled": false,
+              "hero": {
+                "images": [ ]
+              },
+              "about": [
+                {
+                  "blockId": "sample-card-1",
+                  "propertyId": "sample-property-1",
+                  "propertyName": "현재 숙소",
+                  "title": "",
+                  "images": [ ],
+                  "order": 1
+                },
+                {
+                  "blockId": "sample-card-2",
+                  "propertyId": "sample-property-2",
+                  "propertyName": "연결 숙소 2",
+                  "domain": "http://localhost:8000/t-template-D",
+                  "title": "",
+                  "images": [ ],
+                  "order": 2
+                }
+              ]
             }
           ]
         }
